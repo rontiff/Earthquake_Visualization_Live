@@ -5,3 +5,5 @@ This project visualizes global earthquake data from the past 7 days using USGS G
 It's developed with HTML, CSS, and JavaScript, incorporating Leaflet for mapping and D3 for data visualization.
 
 Explore seismic activity interactively on the web.
+
+https://rontiff.github.io/Earthquake_Visualization_Live/
